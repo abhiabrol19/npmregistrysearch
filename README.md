@@ -74,4 +74,4 @@ The NPM Registry React App is a user-friendly tool designed to interact with the
 
 ## Screenshot
 
-![NPM Registry App Home Page](./assets/demo.png)
+![NPM Registry App Home Page](./src/assets/demo.png)
